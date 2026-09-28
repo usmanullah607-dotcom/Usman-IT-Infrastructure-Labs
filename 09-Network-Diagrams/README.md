@@ -18,3 +18,11 @@ Topics Covered
 - High Availability & Redundancy
 - Network Monitoring Design
 - Troubleshooting Flow Diagrams
+
+
+
+## Lab Diagrams
+
+![Network Diagram](./Network%20Diagram.png)
+
+![Office Network FortiGate VLAN VPN CLI Lab](./Office-network-fortigate-vlan-vpn-cli-lab.png)
