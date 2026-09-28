@@ -24,3 +24,8 @@ Topics Covered
 - FortiAnalyzer
 - FortiManager
 - Firewall Troubleshooting
+
+
+## Lab Diagram
+
+![FortiGate Firewall Policy NAT Site-to-Site VPN Lab](./FortiGate%20Firewall%20Policy%20%2B%20NAT%20%2B%20Site-to-Site%20VPN%20Lab.png)
