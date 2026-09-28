@@ -15,3 +15,10 @@ Topics Covered
 - IP Addressing
 - Network Troubleshooting
 - Connectivity Testing
+
+
+## Lab Diagrams
+
+![Office Network FortiGate VLAN VPN CLI Lab](./Office-network-fortigate-vlan-vpn-cli-lab.png)
+
+![Network Diagrams Logical Physical VPN SD-WAN Lab](./network-diagrams-logical-physical-vpn-sdwan-lab.png)
