@@ -24,3 +24,8 @@ Topics Covered
 - CCTV/NVR Network Troubleshooting
 - IP PBX Connectivity Troubleshooting
 - Root Cause Analysis
+
+
+## Lab Diagram
+
+![IT Infrastructure Troubleshooting Lab](./Troubleshooting.png)
