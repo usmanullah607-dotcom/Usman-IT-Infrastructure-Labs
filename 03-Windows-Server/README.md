@@ -18,3 +18,8 @@ Topics Covered
 - Backup & Recovery
 - Hyper-V
 - Server Troubleshooting
+
+
+## Lab Diagram
+
+![Windows Server AD DNS DHCP GPO Lab](./windows-server-ad-dns-dhcp-gpo-lab.png)
