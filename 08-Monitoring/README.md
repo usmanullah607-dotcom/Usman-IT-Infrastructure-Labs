@@ -19,3 +19,8 @@ Topics Covered
 - Logs & Events
 - Performance Analysis
 - Monitoring Troubleshooting
+
+
+## Lab Diagram
+
+![PRTG Network Monitoring Lab](./prtg-network-monitoring-lab.png)
