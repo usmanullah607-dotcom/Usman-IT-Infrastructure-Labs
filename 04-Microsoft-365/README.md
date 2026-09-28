@@ -15,3 +15,8 @@ Topics Covered
 - Mailbox Management
 - Security & Access Administration
 - Basic Microsoft 365 Troubleshooting
+
+
+## Lab Diagram
+
+![Microsoft 365 Entra ID Hybrid Environment Lab](./microsoft365-entra-id-hybrid-environment-lab.png)
