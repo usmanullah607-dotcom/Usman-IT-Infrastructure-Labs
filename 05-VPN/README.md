@@ -17,3 +17,7 @@ Topics Covered
 - VPN Connectivity Testing
 - VPN Logs & Monitoring
 - VPN Troubleshooting
+
+## Lab Diagram
+
+![FortiGate SSL VPN and Site-to-Site VPN Lab](./fortigate-ssl-vpn-site-to-site-vpn-lab.png)
