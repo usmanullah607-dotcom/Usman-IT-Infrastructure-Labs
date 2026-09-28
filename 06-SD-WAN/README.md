@@ -19,3 +19,8 @@ Topics Covered
 - FortiGate SD-WAN
 - SD-WAN Monitoring
 - SD-WAN Troubleshooting
+
+
+## Lab Diagram
+
+![FortiGate SD-WAN Multi-WAN Policy-Based Routing Lab](./FortiGate%20SD-WAN%20Lab%20%28Multi-WAN%20%2B%20Policy-Based%20Routing%29.png)
