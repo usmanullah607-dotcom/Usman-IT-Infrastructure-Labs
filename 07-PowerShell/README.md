@@ -20,3 +20,8 @@ Topics Covered
 - Network Troubleshooting Commands
 - Administrative Automation
 - PowerShell Troubleshooting
+
+
+## Lab Diagram
+
+![PowerShell Windows Administration Automation Lab](./powershell-windows-administration-automation-lab.png)
